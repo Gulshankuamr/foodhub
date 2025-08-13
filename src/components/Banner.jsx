@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import BannerVideo from '../assets/BannerVideo.mp4';
+import BannerVideo from '../assets/Bannervideo.mp4';
 import Bannersmall1 from '../assets/Bannersmall1.png';
 import Bannersmall2 from '../assets/Bannersmall2.png';
 import Bannersmall3 from '../assets/Bannersmall3.png';
